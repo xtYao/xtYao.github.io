@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Xiaotong Yao</title>
+    <link>https://xtyao.github.io/publications/</link>
+    <description>Recent content in Publications on Xiaotong Yao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xtyao.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distinct Classes of Complex Structural Variation Uncovered across Thousands of Cancer Genome Graphs.</title>
+      <link>https://xtyao.github.io/publications/jabba/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtyao.github.io/publications/jabba/</guid>
+      <description>Abstract Cancer genomes often harbor hundreds of somatic DNA rearrangement junctions, many of which cannot be easily classified into simple (e.g., deletion) or complex (e.g., chromothripsis) structural variant classes. Applying a novel genome graph computational paradigm to analyze the topology of junction copy number (JCN) across 2,778 tumor whole-genome sequences, we uncovered three novel complex rearrangement phenomena: pyrgo, rigma, and tyfonas. Pyrgo are “towers” of low-JCN duplications associated with early-replicating regions, superenhancers, and breast or ovarian cancers.</description>
+    </item>
+    
+  </channel>
+</rss>
